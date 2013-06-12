@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#page,#page2,#page3,#page4 {
+  
+	background-image:url(../_Chevrolet-Corvette-Stingray-Concept-1-lg.jpg);	
+}
+
+.logo{
+	height:200px;
+	background-image:url(../____BlacK_DragoN_Wallpaper_____by_ForceDragonX.jpg)  !important;
+	margin:0 auto;	
+	width:100% !important;
+}
+.listView ul li {
+	background:none !important;
+	border-radius:5px ;
+	-webkit-border-radius:5px;	
+	-moz-border-radius:5px;
+	width:98% !important;
+	margin:0 auto !important;
+	margin-bottom:2px !important;
+	margin-top:2px !important;
+	border:none;
+	
+}
+
+.listView ul li a {
+	background:rgba(255,255,255,0.6) !important;
+	border-radius:5px ;
+	-webkit-border-radius:5px;	
+	-moz-border-radius:5px;
+	
+	
+	
+}
+.listView ul li a:hover {
+	background:rgba(255,255,255,0.9) !important;
+	border-radius:5px ;
+	-webkit-border-radius:5px;	
+	-moz-border-radius:5px;
+	
+	
+	
+}
+
